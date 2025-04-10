@@ -26,5 +26,5 @@
  
  INSTRUCTIONS:
 ## Step-by-Step Guide
-For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide]().
+For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide](https://quickstarts.snowflake.com/guide/end-to-end-ml-workflow).
  
